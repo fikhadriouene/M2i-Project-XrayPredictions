@@ -16,12 +16,14 @@ Ce projet est réalisé dans le cadre de la certification **RNCP Data Scientist*
 
 ### Objectifs :
 
-* Concevoir une infrastructure de données (MinIO)
-* Automatiser l’ingestion et le stockage des données
-* Nettoyer et fiabiliser un dataset médical
-* Réaliser une analyse exploratoire (EDA)
-* Développer des modèles de Machine Learning
-* Travailler sur des données structurées et non structurées
+- Concevoir une infrastructure de données (MinIO)
+- Automatiser l’ingestion et le stockage des données
+- Nettoyer et fiabiliser le dataset médical
+- Réaliser une analyse exploratoire des données (EDA)
+- Développer des modèles de Machine Learning pour les données structurées (métadonnées CSV)
+- Développer des modèles de Deep Learning pour les images radiologiques
+- Entraîner et évaluer les modèles sur des données structurées et non structurées
+- Déployer les modèles sous forme de service via une API
 
 ---
 
@@ -126,15 +128,15 @@ Les radiographies sont utilisées pour des analyses avancées :
 
 
 git clone https://github.com/fikhadriouene/M2i-Project-XrayPredictions.git
-cd M2i-Project-XrayPredictions
+
 
 
 ### 2. Créer un environnement virtuel
 
 
 python -m venv venv
-source venv/bin/activate   # Linux / Mac
-venv\Scripts\activate      # Windows
+source venv/bin/activate   
+venv\Scripts\activate      
 
 
 ### 3. Installer les dépendances
