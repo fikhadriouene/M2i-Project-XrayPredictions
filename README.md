@@ -110,7 +110,7 @@ Les radiographies sont utilisées pour des analyses avancées :
 * Seaborn
 * Scikit-learn
 
-### Deep Learning (prévu) :
+### Deep Learning:
 
 * TensorFlow / Keras
 * PyTorch
