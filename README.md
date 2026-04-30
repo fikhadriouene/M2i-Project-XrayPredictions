@@ -189,7 +189,7 @@ Les images peuvent être ajoutées dans le dossier `reports/figures/`.
 
 ## Structure du projet
 
-
+``` bash
 X-RAY PREDICTIONS/
 ├── Bloc01_Infrastructure_de_donnees/
 ├── Bloc02_Analyse_des_Donnees/
@@ -204,7 +204,7 @@ X-RAY PREDICTIONS/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
