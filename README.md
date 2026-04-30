@@ -227,7 +227,6 @@ Ces étapes permettront de couvrir l’ensemble du cycle de vie d’un projet Da
 
 Farid Ikhadriouene
 GitHub : https://github.com/fikhadriouene
-LinkedIn : à compléter
 
 ---
 
