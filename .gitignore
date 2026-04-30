@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env
+
+# data
+data/
+*.csv
+*.zip
+*.jpg
+
+# models
+models/
+*.h5
+*.pt
+*.pkl
+
+# logs
+*.log
+
+# notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
