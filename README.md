@@ -109,11 +109,7 @@ Les radiographies sont utilisées pour des analyses avancées :
 * Matplotlib
 * Seaborn
 * Scikit-learn
-
-### Deep Learning:
-
-* TensorFlow / Keras
-* PyTorch
+* TensorFlow
 
 ### Outils :
 
@@ -128,30 +124,30 @@ Les radiographies sont utilisées pour des analyses avancées :
 
 ### 1. Cloner le projet
 
-```bash id="lz6jva"
+
 git clone https://github.com/fikhadriouene/M2i-Project-XrayPredictions.git
 cd M2i-Project-XrayPredictions
-```
+
 
 ### 2. Créer un environnement virtuel
 
-```bash id="q6ik98"
+
 python -m venv venv
 source venv/bin/activate   # Linux / Mac
 venv\Scripts\activate      # Windows
-```
+
 
 ### 3. Installer les dépendances
 
-```bash id="h3z0ap"
+
 pip install -r requirements.txt
-```
+
 
 ### 4. Lancer les services (MinIO, etc.)
 
-```bash id="sdn7po"
+
 docker-compose up -d
-```
+
 
 ---
 
@@ -207,6 +203,7 @@ X-RAY PREDICTIONS/
 ├── requirements.txt
 └── README.md
 
+
 ---
 
 ## Feuille de route
@@ -228,7 +225,7 @@ Ces étapes permettront de couvrir l’ensemble du cycle de vie d’un projet Da
 
 Farid Ikhadriouene
 GitHub : https://github.com/fikhadriouene
-
+LinkedIn : à compléter
 
 ---
 
